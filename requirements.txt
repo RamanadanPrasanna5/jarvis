@@ -1,0 +1,2 @@
+# Optional native window; --browser needs no third-party Python packages.
+pywebview>=5.4,<7
